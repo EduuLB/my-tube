@@ -28,7 +28,7 @@ async function listaVideos() {
         `
             <div>
                 <h3 class="mensagem__titulo">Não foi Possivel carregar a lista de Videos</h3>
-                <img class="mensagem__erro" src="../img/erro.png" >
+                <img class="mensagem__erro" src="../img/erro.png">
             </div>
         `
     }

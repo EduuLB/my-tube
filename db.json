@@ -90,6 +90,13 @@
       "url": "https://www.youtube.com/embed/SjtdH3dWLa8",
       "imagem": "../img/imagemPerfilPadrao.jpg",
       "id": 14
+    },
+    {
+      "titulo": "Back-end VS Front-end",
+      "canal": "Bolt",
+      "url": "https://www.youtube.com/embed/PYi09FxQRR4",
+      "imagem": "../img/imagemPerfilPadrao.jpg",
+      "id": 15
     }
   ]
 }
